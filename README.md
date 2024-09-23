@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de arquivo `README.md` em português para o seu script de conversão de arquivos `.opus` para `.mp4`. Este README está formatado para ser facilmente inserido no GitHub e inclui todas as seções essenciais para ajudar os usuários a entenderem, instalarem e utilizarem o seu script.
-
----
-
 # Conversor de `.opus` para `.mp4` em Lote
 
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
